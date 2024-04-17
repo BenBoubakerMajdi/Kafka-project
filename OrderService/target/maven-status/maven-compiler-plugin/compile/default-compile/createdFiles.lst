@@ -1,0 +1,8 @@
+com\Microservices\OrderService\OrderEvent\KafkaTopic.class
+com\Microservices\OrderService\OrderEvent\OrderEvent.class
+com\Microservices\OrderService\Controller\OrderController.class
+com\Microservices\OrderService\Model\Order.class
+com\Microservices\OrderService\Service\OrderService.class
+com\Microservices\OrderService\OrderEvent\OrderEventProducer.class
+com\Microservices\OrderService\OrderServiceApplication.class
+com\Microservices\OrderService\Repository\OrderRepository.class
